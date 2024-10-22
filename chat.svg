@@ -232,7 +232,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="230" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Chetan</text>
+    <text x="15" y="27">Hi, I'm Chetan 🙋‍♂️</text>
   </g>
 
   <!-- typing 2 -->
@@ -276,7 +276,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="450" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Falling in love with future of AI</text>    
+    <text x="15" y="27">Falling in love with future of AI ❤️</text>    
     <text x="15" y="50">Building something out of that beyond expectations </text>
   </g>
 
@@ -294,7 +294,7 @@
     <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">A Visionary Data Scientist</text>
+    <text x="15" y="27">A Visionary Data Scientist 🎯</text>
     <text x="15" y="50">Developing AI models that learn and adapt</text>
   </g>
    <!-- typing 5 -->
@@ -333,7 +333,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="300" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">please reach out via LinkedIn ...</text>    
+    <text x="15" y="27">Please reach out via <tspan fill= 'blue'> LinkedIn ... </tspan></text>    
   </g>  
   
 
